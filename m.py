@@ -40,7 +40,7 @@ def on_press(event):
         mouse.wheel(-1)
     elif event.name == 'h':
         mouse.hold()
-
+        
 # printing commands 
 print("\nMouse Controls:-\n  Move I,J,K,L\n  Click U,O Hold with H\n  Scroll Y,P")
 
